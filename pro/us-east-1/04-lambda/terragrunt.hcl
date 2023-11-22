@@ -10,6 +10,6 @@ include "patch" {
   path = "./patch.hcl"
 }
 
-inputs = {
-  function_name = "just-a-custom-name"
-}
+# inputs = {
+#   function_name = "just-a-custom-name"
+# }
