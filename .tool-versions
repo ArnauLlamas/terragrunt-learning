@@ -1,2 +1,2 @@
-terraform 1.5.7
-terragrunt 0.47.0
+terraform 1.10.5
+terragrunt 0.72.6
